@@ -9,7 +9,7 @@ export function Header() {
     <>
       <div className="head">
         <img
-          width={200}
+          width={201}
           src={instaclone}
           onClick={() => navigate("../main", { replace: true })}
           alt=""
